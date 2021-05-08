@@ -1,6 +1,8 @@
 body {
     background-color: black;
     color: black;
+    padding: 0;
+    magin: 0;
 }
 
 .calculator {
